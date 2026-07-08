@@ -1,4 +1,4 @@
-use crate::error::ValidationError;
+use crate::value_objects::error::ValidationError;
 
 pub struct Name(String);
 
